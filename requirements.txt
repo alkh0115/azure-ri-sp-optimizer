@@ -1,0 +1,5 @@
+azure-identity
+azure-mgmt-consumption
+azure-mgmt-reservations
+azure-storage-blob
+azure-data-tables
