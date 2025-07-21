@@ -6,3 +6,6 @@ azure-functions
 azure-identity
 requests
 azure-storage-blob
+azure-mgmt-consumption
+azure-mgmt-reservations
+azure-data-tables
