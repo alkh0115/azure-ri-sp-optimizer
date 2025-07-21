@@ -1,0 +1,26 @@
+Subscription ID,Resource Type,Region,Term,Scope,Recommended Quantity,Current On-Demand Cost (Monthly),Estimated RI/SP Cost (Monthly),Estimated Savings (Monthly),Estimated Savings (%),Usage Patterns Analyzed,Confidence Rating,Offer ID,Effective Date,Recommendation Type
+2367218e-c462-4dec-a43d-d4395e6a9fb5,Azure SQL DB,North Europe,1 Year,Shared,7,1548.71,1116.16,432.55,27.93,Last 30 days,High,3118ede3-74e5-4f0e-8b56-24474ea50635,7/15/2025,Reserved Instance
+87e8f1d2-99a9-4049-a0e6-2cc3cfa106bb,App Service,West US,3 Year,Single Subscription,10,1401.18,748.93,652.25,46.55,Last 30 days,High,35d47c47-c738-469b-9cb5-22643b9a30fe,7/15/2025,Savings Plan
+2a800f26-cf24-4f12-a3c3-794ac68f39eb,App Service,West Europe,1 Year,Shared,1,2985.45,1981.14,1004.31,33.64,Last 30 days,High,74c313ba-f357-450b-a3e7-d362991f0ca7,7/15/2025,Savings Plan
+80da8ea6-6e73-46bf-8caf-8e4c58e208fe,Premium SSD,Southeast Asia,1 Year,Single Subscription,4,629.72,474.75,154.97,24.61,Last 30 days,High,ca196ac9-3d03-4bf2-a9a5-7f426d411a3b,7/15/2025,Savings Plan
+22492e92-0a2d-495f-9d57-c1342ae28050,Azure SQL DB,North Europe,1 Year,Shared,3,4563.37,3219.46,1343.91,29.45,Last 30 days,Low,eba8c35b-70ca-40d9-9800-63cf9490ebc5,7/15/2025,Savings Plan
+0eefc163-98fd-4f43-911c-a1f37ac5c9a7,Standard_E2s_v3,Central US,1 Year,Shared,10,4448.06,3299.57,1148.49,25.82,Last 30 days,Medium,81d80d12-ae74-4f2e-97e2-339a6d573c15,7/15/2025,Reserved Instance
+b41bd3cb-c4d9-4d27-a9a1-97c4bb507bb6,Premium SSD,East US,3 Year,Shared,1,4403.46,2857.41,1546.05,35.11,Last 30 days,High,b8576a03-b340-4e10-bd42-0ec9c5f68281,7/15/2025,Reserved Instance
+ffc04e9b-21ea-4d32-b620-7d4e39581852,Standard_D4s_v3,Central US,3 Year,Shared,4,3155.4,1881.25,1274.15,40.38,Last 30 days,Medium,4c55b149-3dfe-4414-86f0-42f8512bcb2b,7/15/2025,Savings Plan
+176e036e-b1ca-4c4a-9c15-57894da04a14,Standard_D4s_v3,West Europe,3 Year,Shared,3,1705.38,1348.61,356.77,20.92,Last 30 days,High,7d0598c9-f127-463d-a5dd-d88d28d30193,7/15/2025,Savings Plan
+ba83edc7-43b7-4a2c-8ebf-5f7f8ab74647,Standard_E2s_v3,Central US,1 Year,Single Subscription,9,844.53,550.55,293.98,34.81,Last 30 days,High,03e8b079-3c7e-4c46-81ce-46e3dde24316,7/15/2025,Savings Plan
+5204bccd-d28a-4320-a38c-b28edd09f021,Premium SSD,East US,3 Year,Shared,4,4257.44,2508.91,1748.53,41.07,Last 30 days,Medium,ed59f2a2-ca0a-425b-b794-b637f2e2b56d,7/15/2025,Reserved Instance
+5b00462f-3bcf-48f3-8036-35fdaba8c7ca,App Service,Central US,3 Year,Shared,9,4141.1,2887.17,1253.93,30.28,Last 30 days,Medium,4585fd3a-5240-4dde-aa6c-63e28494c239,7/15/2025,Reserved Instance
+4835b286-0d6e-48c8-a406-2baa727bb458,Standard_E2s_v3,Central US,1 Year,Shared,5,1934.19,1263.41,670.78,34.68,Last 30 days,Medium,0d6cee08-4de4-4c65-b438-12daeada2f42,7/15/2025,Savings Plan
+ebc730f1-52a4-4bdb-b981-e0193e4ec282,Standard_D4s_v3,Central US,3 Year,Single Subscription,8,4120.04,2464.61,1655.43,40.18,Last 30 days,High,7f56b1fe-51e4-4ab1-be9c-c593b4ad1028,7/15/2025,Savings Plan
+7d246b0e-995b-4972-be54-8ce64212d0c6,Azure SQL DB,East US,3 Year,Single Subscription,10,2917.55,2062.12,855.43,29.32,Last 30 days,Medium,b56799bc-4c6d-42a3-9a16-76977641cf8b,7/15/2025,Savings Plan
+5e177162-fd57-4ef1-a29d-1be4b64be092,Azure SQL DB,East US,1 Year,Single Subscription,6,2956.06,1295.64,1660.42,56.17,Last 30 days,Low,6087d191-8fac-4120-9408-cf556792778c,7/15/2025,Reserved Instance
+26741dc3-e530-4b0c-806e-a164cdf673ab,Standard_D4s_v3,East US,3 Year,Shared,10,4357.38,2032.72,2324.66,53.35,Last 30 days,Medium,118e04d4-e60f-498c-b7b5-b90344d0b7cc,7/15/2025,Savings Plan
+f4f114a2-201f-403b-abd3-34f27466e5a6,Azure SQL DB,West US,3 Year,Single Subscription,10,1939.5,1331.27,608.23,31.36,Last 30 days,Medium,e0c2fe4d-4c57-4f81-bd51-a1fdfc11ae53,7/15/2025,Savings Plan
+82d9c996-1408-4206-9b71-12c5c1e52d28,Standard_D4s_v3,Central US,3 Year,Shared,3,766.22,357.21,409.01,53.38,Last 30 days,Medium,209fe16f-075b-410c-a241-19cfb967db24,7/15/2025,Reserved Instance
+e9186473-bee1-434d-968a-35f3d18f452c,Standard_E2s_v3,West Europe,3 Year,Single Subscription,10,2691.65,2065.3,626.35,23.27,Last 30 days,Low,c80d9ca0-00b4-49d5-9eaa-999f772f01c2,7/15/2025,Savings Plan
+3beee2a1-b6fe-4f36-aeb2-24a58fec6af7,Standard_D4s_v3,Southeast Asia,3 Year,Single Subscription,6,4128.74,2679.55,1449.19,35.1,Last 30 days,High,8cee6df7-3c41-4621-9dae-8df058102293,7/15/2025,Savings Plan
+d596acba-b870-4859-ac5f-c5e25e6ea5bd,Standard_D4s_v3,West Europe,1 Year,Single Subscription,10,515.75,309.45,206.3,40,Last 30 days,High,74222ce7-55a9-4676-8162-a163c7213dd7,7/15/2025,Savings Plan
+b1bf81c3-44f5-443b-af36-eca94134c256,Azure SQL DB,East US,1 Year,Shared,4,4462.76,2094.37,2368.39,53.07,Last 30 days,Medium,9c2a9694-031b-4b4f-b516-bb5932af6126,7/15/2025,Reserved Instance
+5d108210-5d9b-415b-bff9-c67676ca617f,App Service,East US,1 Year,Shared,2,877,579.52,297.48,33.92,Last 30 days,Low,fda4126d-7377-441d-8a0e-c194f47e75c8,7/15/2025,Reserved Instance
+556eeb6a-4a35-408f-90e9-45fda8e6f066,Premium SSD,Southeast Asia,3 Year,Shared,9,760.52,472.44,288.08,37.88,Last 30 days,Medium,fbbb5e19-11fe-48a8-82f5-c2ab2607686b,7/15/2025,Savings Plan

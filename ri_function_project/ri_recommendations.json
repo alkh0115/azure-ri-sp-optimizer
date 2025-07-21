@@ -1,3 +1,33 @@
 {
-  "value": []
+  "value": [
+    {
+      "kind": "SavingsPlan",
+      "id": "/subscriptions/8dde0f6c-19a7-454f-9c19-b6db8478ca1e/providers/Microsoft.CostManagement/benefitRecommendations/19b2186946e4c35b09fa24b104565a5f694760257854e83027657ddb1b7e6a1e",
+      "name": "19b2186946e4c35b09fa24b104565a5f694760257854e83027657ddb1b7e6a1e",
+      "type": "Microsoft.CostManagement/benefitRecommendations",
+      "properties": {
+        "recommendationDetails": {
+          "averageUtilizationPercentage": 62.09,
+          "coveragePercentage": 67.666,
+          "commitmentAmount": 0.018,
+          "overageCost": 15.906,
+          "benefitCost": 25.596,
+          "savingsAmount": 7.691,
+          "savingsPercentage": 15.634,
+          "totalCost": 41.502,
+          "wastageCost": 9.704
+        },
+        "armSkuName": "Compute_Savings_Plan",
+        "commitmentGranularity": "Hourly",
+        "currencyCode": "USD",
+        "costWithoutBenefit": 49.19322439878929,
+        "firstConsumptionDate": "2025-05-16T00:00:00Z",
+        "lastConsumptionDate": "2025-07-14T05:00:00Z",
+        "lookBackPeriod": "Last60Days",
+        "scope": "Shared",
+        "term": "P3Y",
+        "totalHours": 1422
+      }
+    }
+  ]
 }
