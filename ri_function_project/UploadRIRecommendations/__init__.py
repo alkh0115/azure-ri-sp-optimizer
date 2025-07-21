@@ -49,7 +49,8 @@ def main(mytimer: func.TimerRequest) -> None:
             "Subscription ID", "Resource Type", "Region", "Term", "Scope",
             "Recommended Quantity", "Current On-Demand Cost (Monthly)",
             "Estimated RI/SP Cost (Monthly)", "Estimated Savings (Monthly)",
-            "Estimated Savings (%)", "Recommendation Type"
+            "Estimated Savings (%)", "Usage Patterns Analyzed", "Confidence Rating", "Offer ID",
+            "Effective Date", "Recommendation Type"
         ])
 
         for item in data:
@@ -65,6 +66,10 @@ def main(mytimer: func.TimerRequest) -> None:
                 props.get("riRecommendedCost", {}).get("amount", ""),
                 props.get("costSavings", {}).get("amount", ""),
                 props.get("costSavings", {}).get("percentage", ""),
+                props.get("usagePattern", ""),
+                props.get("confidenceRating", ""),
+                props.get("offerId", ""),
+                props.get("effectiveDateTime", ""),
                 props.get("category", "")
             ])
 
