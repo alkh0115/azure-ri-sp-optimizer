@@ -45,8 +45,16 @@ azure-ri-sp-optimizer/
 │   └── README.md                   # Project documentation
 ├── .gitignore                       # Root-level ignore settings
 ├── requirements.txt                # Root-level package requirements
+├── Flowchart.PNG                   # Flowchart image showing pipeline
 ├── README.md                       # Root-level README (this file)
 ```
+
+---
+## Pipeline Flowchart
+
+The following diagram illustrates the automated flow of the Azure Function:
+
+![Pipeline Flowchart](./Flowchart.PNG)
 
 ---
 
